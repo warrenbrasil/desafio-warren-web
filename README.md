@@ -32,7 +32,7 @@ Segue abaixo alguns exemplos de telas para uma base, mas sinta-se à vontade par
 
 ## Tecnologias
 
-Aqui na Warren utilizamos as seguintes tecnologias, novamente sinta-se à vontade para usá-las ou não.
+Aqui na Warren utilizamos as seguintes tecnologias, novamente sinta-se à vontade para usá-las como referência ou não.
 
 - VueJs
 - TypeScript
@@ -120,7 +120,7 @@ GET: `https://warren-transactions-api.herokuapp.com/api/transactions`
 ]
 ```
 
-GET: `https://warren-transactions-api.herokuapp.com/api/:id`
+GET: `https://warren-transactions-api.herokuapp.com/api/transactions/:id`
 
 ```json
 {
