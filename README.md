@@ -11,7 +11,7 @@ O desafio será implementar uma tela de lista de transações apresentando os pr
 
 ## Telas
 
-Segue abaixo alguns exemplos de telas para uma base, mas sinta-se à vontade para usá-las ou não.
+Segue abaixo alguns exemplos de telas para uma base, mas sinta-se à vontade para usá-las como referência ou não.
 
 ### Lista de transações
 
@@ -32,7 +32,7 @@ Segue abaixo alguns exemplos de telas para uma base, mas sinta-se à vontade par
 
 ## Tecnologias
 
-Aqui na Warren utilizamos as seguintes tecnologias, novamente sinta-se à vontade para usá-las como referência ou não.
+Aqui na Warren utilizamos as seguintes tecnologias, novamente sinta-se à vontade para usá-las ou não.
 
 - VueJs
 - TypeScript
