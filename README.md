@@ -49,15 +49,15 @@ Aqui na Warren utilizamos as seguintes tecnologias, novamente sinta-se à vontad
 - Documentação (comente sobre decisões técnicas, escolhas, requisitos, etc);
 - Testes (muito importante!);
 - Design da solução/arquitetura;
-- Código (Modularização, Nomenclaturas, Padronização Reutilização);
+- Código (Modularização, Nomenclaturas, Padronização, Reutilização);
 - Preocupação com usabilidade;
+- Utilizar alguma lib/framework moderno (React, Vue, Angular, outro)
 
 ### Interessante (Não fundamental)
 
 - Preocupação com performance;
 - Preocupação com acessibilidade;
 - TypeScript
-- Utilizar alguma lib/framework moderno (React, Vue, Angular, outro)
 
 **Não recomendamos utilizar alguma lib de componentes como, por exemplo, bootstrap, Ant Design, entre outras.**
 
