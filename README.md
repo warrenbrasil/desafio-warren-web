@@ -1,6 +1,6 @@
 # Desafio Warren - Web
 
-## Desafio
+## Contexto
 
 O desafio será implementar uma tela de lista de transações apresentando os principais dados relacionado a cada uma delas, ao clicar em uma transação será exibido um modal contendo os detalhes desta transação. O desafio deverá conter as seguintes funcionalidades:
 
@@ -50,13 +50,15 @@ Aqui na Warren utilizamos as seguintes tecnologias, novamente sinta-se à vontad
 - Testes (muito importante!);
 - Design da solução/arquitetura;
 - Código (Modularização, Nomenclaturas, Padronização, Reutilização);
+- Utilizar padrões de nomenclaturas de CSS;
 - Preocupação com usabilidade;
-- Utilizar alguma lib/framework moderno (React, Vue, Angular, outro)
+- Utilizar alguma lib/framework moderno (Vue, React, Angular, outro);
 
 ### Interessante (Não fundamental)
 
 - Preocupação com performance;
 - Preocupação com acessibilidade;
+- Interface responsiva;
 - TypeScript
 
 **Não recomendamos utilizar alguma lib de componentes como, por exemplo, bootstrap, Ant Design, entre outras.**
@@ -96,26 +98,6 @@ GET: `https://warren-transactions-api.herokuapp.com/api/transactions`
     "date": "2016-08-25",
     "from": "Férias",
     "to": "Trade"
-  },
-  {
-    "id": "5f89f9f235a90e5336c796f7",
-    "title": "Movimentação interna",
-    "description": "labore id culpa magna minim",
-    "status": "created",
-    "amount": 172513.46,
-    "date": "2020-04-29",
-    "from": "Férias",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f23e427f64fc2ea101",
-    "title": "Depósito",
-    "description": "aute aliqua eu excepteur et",
-    "status": "processing",
-    "amount": 51668.85,
-    "date": "2020-01-01",
-    "from": "Férias",
-    "to": "Conta Warren"
   }
 ]
 ```
