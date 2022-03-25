@@ -15,20 +15,20 @@ Segue abaixo alguns exemplos de telas para uma base, mas sinta-se à vontade par
 
 ### Lista de transações
 
-![https://lh4.googleusercontent.com/Ga-DeKt5_ZGnwh7YsPrn0QCJbkGV-RdbSFglK-xNPyFScZ1OkWqYJB7lm2r2Ht5i_tKC35-RQw0u6XMm_FCd5-qv9eBLKoR2OZ6WSwi4daDsTdzQk73Doyt-FlS65C6pHA_UUxxo](https://lh4.googleusercontent.com/Ga-DeKt5_ZGnwh7YsPrn0QCJbkGV-RdbSFglK-xNPyFScZ1OkWqYJB7lm2r2Ht5i_tKC35-RQw0u6XMm_FCd5-qv9eBLKoR2OZ6WSwi4daDsTdzQk73Doyt-FlS65C6pHA_UUxxo)
+![https://warren.com.br/assets/desafio-web/home-desafio-web.png](https://warren.com.br/assets/desafio-web/home-desafio-web.png)
 
 ### Modais
 
 #### Modal de depósito
-![https://lh3.googleusercontent.com/U-NHHZ9enUvNbT7Kvx2cmCzr9yzpXi1GVGY007d2wJ20IrE-p7xxRuOCxa8yyBwWiK_rcPjHhiLvKK5C_jnNLXlMptNW3DCTe41GAuyEkguh3WOLnvVkcvBUBLL9HZTxiQH5UwGV](https://lh3.googleusercontent.com/U-NHHZ9enUvNbT7Kvx2cmCzr9yzpXi1GVGY007d2wJ20IrE-p7xxRuOCxa8yyBwWiK_rcPjHhiLvKK5C_jnNLXlMptNW3DCTe41GAuyEkguh3WOLnvVkcvBUBLL9HZTxiQH5UwGV)
+![https://warren.com.br/assets/desafio-web/modal-deposito.png](https://warren.com.br/assets/desafio-web/modal-deposito.png)
 
 
 #### Modal de resgate
-![https://lh3.googleusercontent.com/4HjLEYZxJl8tMZvjfeMI5SGoIY--Us9aXHMxw8R9So-qH1imMbCGwORsXVqZ2D95n2nXiN9JaEYFHa61mAI8M2R0hEUdPZubVShE1qBpVHgPgF-4XAzZJG4aBaFb1w5xIsuzRN6l](https://lh3.googleusercontent.com/4HjLEYZxJl8tMZvjfeMI5SGoIY--Us9aXHMxw8R9So-qH1imMbCGwORsXVqZ2D95n2nXiN9JaEYFHa61mAI8M2R0hEUdPZubVShE1qBpVHgPgF-4XAzZJG4aBaFb1w5xIsuzRN6l)
+![https://warren.com.br/assets/desafio-web/modal-resgate.png](https://warren.com.br/assets/desafio-web/modal-resgate.png)
 
 
 #### Modal de Movimentação interna
-![https://lh6.googleusercontent.com/fN6UH8MXdeSPGj6NfHmZwbqOshOf5bOqVDrboCJD2gyXyZBFCT_duBPe6V0gc06rTi_LE1wtV5tH7ziogCfvPQsofcsUhRWqcwKC4poQiybwsPMGUmhql315-A4LHRsu-iuKgbBU](https://lh6.googleusercontent.com/fN6UH8MXdeSPGj6NfHmZwbqOshOf5bOqVDrboCJD2gyXyZBFCT_duBPe6V0gc06rTi_LE1wtV5tH7ziogCfvPQsofcsUhRWqcwKC4poQiybwsPMGUmhql315-A4LHRsu-iuKgbBU)
+![https://warren.com.br/assets/desafio-web/movimentacao-interna.png](https://warren.com.br/assets/desafio-web/movimentacao-interna.png)
 
 ## Tecnologias
 
